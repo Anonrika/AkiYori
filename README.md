@@ -1,5 +1,7 @@
 # AkiYori
 
+![Ukázka](preview.webp)
+
 Userscript, který na [Akichan.moe](https://akichan.moe/) přidá k anime záložku **Titulky**. Titulky se načítají z [Hiyori](https://hiyori.cz/) přes jejich API.
 
 Tabulka obsahuje epizodu, název, jazyk, fansub/překladatele, release a datum přidání. Titulky jde rovnou stáhnout, nebo přejít na odkaz, kde jsou zveřejněné.

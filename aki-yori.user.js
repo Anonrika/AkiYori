@@ -6,7 +6,7 @@
 // @supportURL   https://github.com/Anonrika/AkiYori/issues
 // @updateURL    https://raw.githubusercontent.com/Anonrika/AkiYori/main/aki-yori.user.js
 // @downloadURL  https://raw.githubusercontent.com/Anonrika/AkiYori/main/aki-yori.user.js
-// @version      1.1
+// @version      1.2
 // @match        https://akichan.moe/anime/rozcestnik/*
 // @include      /^https:\/\/akichan\.moe\/anime\/\d+\/*/
 // @match        https://xn--l8jwa4d2g6c.xn--q9jyb4c/anime/rozcestnik/*

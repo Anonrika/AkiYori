@@ -202,6 +202,9 @@ function Inicializovat_tabulku()
             zprava.remove();
         }
 
+        // DataTables by pole `error` zobrazilo přes alert(), chyba už je vypsaná v panelu.
+        delete response.error;
+        
         callback(response);
         tippy('[data-popis-titulku]',
         {
